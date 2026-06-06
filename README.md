@@ -26,7 +26,7 @@
 
 - **技术栈：** Vue 3 / Vue Router / Pinia / Element Plus / SSE / ECharts / SCSS
 - **亮点：** 引入 SSE 流式响应实现逐字渲染，消除白屏等待；ECharts 数据可视化辅助运营决策
-- **源码：** [moncia-025/ai-mental-health](https://github.com/moncia-025/Ai-mental-health)
+- **源码：** [moncia-025/ai-mental-health](https://github.com/moncia-025/Ai-mental-health-assistant)
 
 #### 📰 大事件后台管理系统
 &gt; 面向内容创作者的内容管理平台，支持 JWT 认证、文章管理与工程化实践
